@@ -1,3 +1,3 @@
 # Bug Reports 
 
-## Bug 1 
+## Product added to cart is not visible in the cart
