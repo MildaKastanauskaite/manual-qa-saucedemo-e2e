@@ -13,39 +13,31 @@
 
 ### Expected Result 
 1. The order is successfully placed and the order confirmation page is displayed.  
+
  
 ## Checkout attempt with empty cart
-1.
-2.
-3.
-4.
-5.
-6.
+
+### Steps
+(To be defined)
 
 ### Expected Result
-1.
+(To be defined)
   
   
 ## Order attempt with invalid checkout data
-1.
-2.
-3.
-4.
-5.
-6.
+
+### Steps
+(To be defined)
 
 ### Expected Result
-1.
+(To be defined)
   
   
 ## Logout with items in cart
-1.
-2.
-3.
-4.
-5.
-6.
+
+### Steps
+(To be defined)
 
 ### Expected Result
-1. 
+(To be defined)
 
